@@ -1,9 +1,9 @@
-.. image:: https://travis-ci.org/openprocurement/esculator.svg?branch=master
-  :target: https://travis-ci.org/openprocurement/esculator
+.. image:: https://travis-ci.org/ProzorroUKR/esculator.svg?branch=master
+    :target: https://travis-ci.org/ProzorroUKR/esculator
 
-.. image:: https://coveralls.io/repos/openprocurement/esculator/badge.svg
-  :target: https://coveralls.io/r/openprocurement/esculator
-    
+.. image:: https://coveralls.io/repos/github/ProzorroUKR/esculator/badge.svg?branch=master
+    :target: https://coveralls.io/github/ProzorroUKR/esculator?branch=master
+
 
 esculator
 =========
